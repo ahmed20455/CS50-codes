@@ -23,7 +23,7 @@ int main(int argc, string argv[])
             return 1;
         }
     }
-    //Prompt user to get the key.
+    //Prompt user to get the key
 
     int k = atoi(argv[1]);
     //Prompt user to get the plaintext
